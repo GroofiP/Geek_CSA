@@ -1,0 +1,7 @@
+/.idea/
+/tmp/
+/env/
+mainapp/json/vk.json
+*.sqlite3
+*.pyc
+Text_File_2.txt
